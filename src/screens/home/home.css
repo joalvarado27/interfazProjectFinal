@@ -1,0 +1,14 @@
+.totalHome{
+    position: absolute;
+    width: calc(100% - 240px);
+    height: 100%;
+    left: 240px;
+    background: url("../../imgs/Equipo.jpeg") 50% fixed;
+    background-size: cover;
+}
+
+.card{
+    width: 25rem;
+    margin-left: 35%;
+    padding: 1%;
+}
